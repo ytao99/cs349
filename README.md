@@ -7,3 +7,7 @@
 A1 - Shapes Drawer (Java/Swing), June 2019
 
 A2 - Breakout Game (Java/Swing), June 2019
+
+A3 - Fotag - ImageView (Java/Android), July 2019
+
+A4 - Ragdoll (Java/Android), July 2019
